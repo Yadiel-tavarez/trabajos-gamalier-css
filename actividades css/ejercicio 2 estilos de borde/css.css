@@ -1,0 +1,49 @@
+p
+{
+    font-style: italic;
+    font-size: xx-large;
+}
+
+h1{
+    color: darkslategrey;
+}
+
+.borde1
+{
+    background-color: aquamarine;
+    width: 200px;
+    text-align: center;
+    border-top-left-radius: 20px;
+    position: relative;
+    position: center;
+    margin:auto;
+    margin-bottom: 70px;
+}
+.borde2
+{
+    background-color: rgb(0, 255, 47);
+    width: 200px;
+    text-align: center;
+    border-top-right-radius: 20px;
+    margin: auto;
+    margin-bottom: 70px;
+}
+.borde3
+{
+    background-color: rgb(0, 255, 170);
+    width: 200px;
+    text-align: center;
+    border-bottom-left-radius: 20px;
+    margin: auto;
+    margin-bottom: 70px;
+}
+.borde4
+{
+    background-color: rgb(0, 255, 213);
+    width: 200px;
+    text-align: center;
+    border-bottom-right-radius: 20px;
+    margin: 70px;
+    margin: auto;
+    margin-bottom: 70px;
+}
